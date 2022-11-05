@@ -20,14 +20,14 @@ nav .container form {
     height: 34px;
 }
 
-nav.container form button {
+nav .container form button {
     background: #5486e0;
     color: #fff;
     cursor: pointer;
 }
 
-nav.container form button, 
-nav.container form input {
+nav .container form button, 
+nav .container form input {
     border: none;
     outline: none;
     padding: 0 10px;
